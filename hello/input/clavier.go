@@ -1,0 +1,4 @@
+package input
+
+
+func Taper() {}

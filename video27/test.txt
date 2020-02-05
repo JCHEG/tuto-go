@@ -1,0 +1,1 @@
+Slaut les gophers, il n'y a pas d'erreur: vous êtes en train de lire le fichier test.txt !
